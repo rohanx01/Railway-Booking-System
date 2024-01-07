@@ -1,0 +1,17 @@
+ __________________________________________________________________________
+| TRAIN NO.| TRAIN NAME     | ORIGIN        | DESTINATION   | RUNS ON      |
+|__________|________________|_______________|_______________|______________|
+|12354     |Lku Hwh Exp     |LAL KUAN       | HOWRAH JN     |  FRI         |
+|          |                |               |               |              |
+|12391     |Shramjeevi Exp  |RAJGIR         | NEW DELHI     | DAILY        |
+|          |                |               |               |              |
+|12947     |Azimabad Exp    |AHMEDABAD JN   | PATNA JN      |MON, THU      |
+|          |                |               |               |              |
+|12952     |Mumbai Rajdhani |NEW DELHI      |MUMBAI CENTRAL | DAILY        |
+|          |                |               |               |              |
+|19040     |Mfp Bdts Special|MUZAFFARPUR JN |BANDRA TERMINUS|SUN, TUE, THU |
+|          |                |               |               |              |
+|22167     |Muv Festival Sp |LOKMANYA T     |MADUADIH       |MON, FRI      |
+|          |                |               |               |              |
+|51093     |Csmt Bsb Spl    |C.SHIVAJI MAH T| VARANASI JN   |DAILY         |
+|__________|________________|_______________|_______________|______________|

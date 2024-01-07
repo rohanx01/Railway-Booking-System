@@ -1,0 +1,3 @@
+|    PNR    |TRAIN_NO|    NAME    | |AGE| |SEX| | ORIGIN | |DESTINATION| |DOJ| |CLASS| |SEAT_STATUS|
+(790396270876, 12952, 'DeshDeepak Verma', 18, 'M', 'new delhi', 'mumbai central', '2020-11-20', '3AC', 'B4 24')
+(790396270876, 12952, 'Krishnapriya ', 18, 'F', 'new delhi', 'mumbai central', '2020-11-20', '3AC', 'B4 39')
